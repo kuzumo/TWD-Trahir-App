@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 83303412}
   - component: {fileID: 83303411}
   m_Layer: 5
-  m_Name: End R Btn
+  m_Name: End R16 Btn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 280522000}
   - component: {fileID: 280521999}
   m_Layer: 5
-  m_Name: Nxt Btn R
+  m_Name: Nxt Btn R16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 1946612986}
   - component: {fileID: 1946612985}
   m_Layer: 5
-  m_Name: R BG
+  m_Name: R16 BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -691,8 +691,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 2516206757762001377, guid: 1eca4c9c27c54c74cac9c9abb8cca0bc, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
