@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e93d0b31b567ae148ae512ad4694c4f6
+guid: dc51e59e91e10434697416aa67c1a31b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2906117968462380130
-    second: WITCH_0
+      213: 70466573149395345
+    second: DRAW ROUND_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Standalone
+    buildTarget: Win64
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WITCH_0
+      name: DRAW ROUND_0
       rect:
         serializedVersion: 2
-        x: 1236
-        y: 675
-        width: 1767
-        height: 1443
+        x: 0
+        y: 0
+        width: 412
+        height: 917
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e938b6eda156ba7d0800000000000000
-      internalID: -2906117968462380130
+      spriteID: 199db1599f85af000800000000000000
+      internalID: 70466573149395345
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      WITCH_0: -2906117968462380130
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

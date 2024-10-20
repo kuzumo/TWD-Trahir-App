@@ -23,6 +23,117 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Round 5.unity
     guid: 39f323ecb4aa1df4398088a4a8094489
+  - enabled: 1
+    path: Assets/Scenes/Round 6.unity
+    guid: 5357f20b9c90b5643ad491eb28db2449
+  - enabled: 1
+    path: Assets/Scenes/Round 7.unity
+    guid: 4dfbd0e28244f1c46b4f353ff518ae3f
+  - enabled: 1
+    path: Assets/Scenes/Round 8.unity
+    guid: cbd002e4d46e4f5439273aca8a1a1e06
+  - enabled: 1
+    path: Assets/Scenes/Round 9.unity
+    guid: 84fb65f506e137b42822825656ed0a35
+  - enabled: 1
+    path: Assets/Scenes/Round 10.unity
+    guid: 2a9e80081ee49b44c9298d496293e03d
+  - enabled: 1
+    path: Assets/Scenes/Round 11.unity
+    guid: 6fd087ab793392e4587eb825e97d9336
+  - enabled: 1
+    path: Assets/Scenes/Round 12.unity
+    guid: c7dbdf6b258ca3a4eb73508cf02da3c9
+  - enabled: 1
+    path: Assets/Scenes/Round 13.unity
+    guid: 57399a7ebdd015d44aee007cf9ef15b0
+  - enabled: 1
+    path: Assets/Scenes/Round 14.unity
+    guid: 4d7a89da2f17ba14a8bc73e6095254f2
+  - enabled: 1
+    path: Assets/Scenes/Round 15.unity
+    guid: 9cfb9c8356aee8e4d99e4916637ca004
+  - enabled: 1
+    path: Assets/Scenes/Round 16.unity
+    guid: ead6671264c11eb458b090bbdb86152d
+  - enabled: 1
+    path: Assets/Scenes/Round 17.unity
+    guid: bdaa62d91ece5f74ca981a83f66896aa
+  - enabled: 1
+    path: Assets/Scenes/Round 18.unity
+    guid: 03489a45badbf7047834982d2822753b
+  - enabled: 1
+    path: Assets/Scenes/Round 19.unity
+    guid: d25c187304ab4e4489b74675b277ef5f
+  - enabled: 1
+    path: Assets/Scenes/Round 20.unity
+    guid: 34b51d8b32422d44ba14d9132ed99460
+  - enabled: 1
+    path: Assets/Scenes/Round 21.unity
+    guid: 65bda433d01d2ef4d8c5b8e9e2e04dbd
+  - enabled: 1
+    path: Assets/Scenes/Round 22.unity
+    guid: a55a2eab793d5474a8e68002c2696b01
+  - enabled: 1
+    path: Assets/Scenes/Round 23.unity
+    guid: d69a8b182d58a474d8e265bf3a89ae1a
+  - enabled: 1
+    path: Assets/Scenes/Round 24.unity
+    guid: 59418c6560fe9704bb07328ae12dd4ab
+  - enabled: 1
+    path: Assets/Scenes/Round 25.unity
+    guid: 0327e5de7743d034fb78425cec8f8cdd
+  - enabled: 1
+    path: Assets/Scenes/Round 26.unity
+    guid: 83399cb5943a37c4b8dea64d9829e85e
+  - enabled: 1
+    path: Assets/Scenes/Round 27.unity
+    guid: 4c986b9b68c6c174d8e6f13cc902207e
+  - enabled: 1
+    path: Assets/Scenes/Round 28.unity
+    guid: fd1aa14f8f4209247965d6ec34a1575a
+  - enabled: 1
+    path: Assets/Scenes/Round 29.unity
+    guid: 00f5c710efacb6d42807fdf83f0bc9da
+  - enabled: 1
+    path: Assets/Scenes/Round 30.unity
+    guid: e269fb25b3319c64ebbafffc6cc8bcdc
+  - enabled: 1
+    path: Assets/Scenes/Round 31.unity
+    guid: 0e1ae0640b5ed6942b02b4e60ab51606
+  - enabled: 1
+    path: Assets/Scenes/Round 32.unity
+    guid: 577cf0961c3c540428a895726e8a5bf4
+  - enabled: 1
+    path: Assets/Scenes/Round 33.unity
+    guid: 82906d6a19c8c52438cadb509c261108
+  - enabled: 1
+    path: Assets/Scenes/Round 34.unity
+    guid: 9fbcabd65be201049a3be150ad9e26b0
+  - enabled: 1
+    path: Assets/Scenes/Round 35.unity
+    guid: e4e04d85c3c065542aae183fe6e7ff8b
+  - enabled: 1
+    path: Assets/Scenes/Round 36.unity
+    guid: edc2e6d789834be489080f796972834d
+  - enabled: 1
+    path: Assets/Scenes/Round 37.unity
+    guid: c49d7f7015ba5e8469f222f4e6515f4f
+  - enabled: 1
+    path: Assets/Scenes/Round 38.unity
+    guid: b4976150f47b4df44bb26c9223365563
+  - enabled: 1
+    path: Assets/Scenes/Round 39.unity
+    guid: 0e2180585704be04dbc2ee24b95e881e
+  - enabled: 1
+    path: Assets/Scenes/Round 40.unity
+    guid: bdcc999c160691d4391f32fc89646ee4
+  - enabled: 1
+    path: Assets/Scenes/End Round.unity
+    guid: b1cefdc0827fdf246b44cddf0c7e9267
+  - enabled: 1
+    path: Assets/Scenes/Draw Round.unity
+    guid: 29ee0831419ce4f458b056a49f0e4f71
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
