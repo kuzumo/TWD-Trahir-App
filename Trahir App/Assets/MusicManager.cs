@@ -56,33 +56,73 @@ public class MusicManager : MonoBehaviour
                 musicToPlay = startGameBG;
                 break;
             case "Round 1":
+            case "Round 2":
+            case "Round 3":
+            case "Round 4":
+
             case "Round 8":
+            case "Round 9":
+
             case "Round 12":
+            case "Round 13":
+
             case "Round 16":
+
             case "Round 19":
+            case "Round 20":
+
             case "Round 23":
+            case "Round 24":
+            
             case "Round 27":
+            case "Round 28":
+
             case "Round 31":
+            case "Round 32":
+
             case "Round 35":
+            case "Round 36":
+
             case "Round 39":
+            case "Round 40":
                 musicToPlay = normalRoundBG;
                 break;
+
             case "Round 5":
                 musicToPlay = ultRoundBG;
                 break;
+
             case "Round 6":
+            case "Round 7":
+
             case "Round 10":
+            case "Round 11":
+
             case "Round 14":
+            case "Round 15":
+
             case "Round 17":
+            case "Round 18":
+
             case "Round 21":
+            case "Round 22":
                 musicToPlay = specialRoundBG;
                 break;
+
             case "Round 25":
+            case "Round 26":
+
             case "Round 29":
+            case "Round 30":
+            
             case "Round 33":
+            case "Round 34":
+
             case "Round 37":
+            case "Round 38":
                 musicToPlay = specialRoundBG2;
                 break;
+                
             case "End Round":
             case "Draw Round":
                 musicToPlay = endRoundBG;
