@@ -865,10 +865,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6550203fbfb48e0409557589ee6b9dd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startGameBG: {fileID: 8300000, guid: 4695b9fe8e928d045a99446783eb1d49, type: 3}
+  startGameBG: {fileID: 8300000, guid: 73df47c6c9196d94fa493487f91b6045, type: 3}
   normalRoundBG: {fileID: 8300000, guid: 3629e253aadc9ff4ab9c550005d8e763, type: 3}
   ultRoundBG: {fileID: 8300000, guid: 8544ec6abebc2a74c891442972dfc6ac, type: 3}
-  specialRoundBG: {fileID: 8300000, guid: aefc19afab296d8458727123895ec1e0, type: 3}
+  specialRoundBG: {fileID: 8300000, guid: 4695b9fe8e928d045a99446783eb1d49, type: 3}
+  specialRoundBG2: {fileID: 8300000, guid: aefc19afab296d8458727123895ec1e0, type: 3}
   endRoundBG: {fileID: 8300000, guid: 1c63df7d45b164242862bb7a2f60d2b6, type: 3}
 --- !u!4 &1434974002
 Transform:
@@ -895,7 +896,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6dfe0eca64e13814d8b97f17a527998c, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 6dfe0eca64e13814d8b97f17a527998c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1

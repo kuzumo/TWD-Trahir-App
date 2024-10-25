@@ -7,6 +7,7 @@ public class MusicManager : MonoBehaviour
     public AudioClip normalRoundBG;
     public AudioClip ultRoundBG;
     public AudioClip specialRoundBG;
+    public AudioClip specialRoundBG2;
     public AudioClip endRoundBG;
     private AudioSource audioSource;
 
@@ -74,11 +75,13 @@ public class MusicManager : MonoBehaviour
             case "Round 14":
             case "Round 17":
             case "Round 21":
+                musicToPlay = specialRoundBG;
+                break;
             case "Round 25":
             case "Round 29":
             case "Round 33":
             case "Round 37":
-                musicToPlay = specialRoundBG;
+                musicToPlay = specialRoundBG2;
                 break;
             case "End Round":
             case "Draw Round":
