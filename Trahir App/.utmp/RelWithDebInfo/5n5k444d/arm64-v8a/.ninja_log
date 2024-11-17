@@ -1,0 +1,12 @@
+# ninja log v5
+402	9332	7518354219717549	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	40b51c818685374
+38	9458	7518354220760851	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	abbd9338af3fbbe6
+4	9644	7518354222986770	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8cefe450680e34e3
+9645	10079	7518354227339358	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	70695db5cc54cff5
+554	10093	7518354227506973	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	de9e31bc4303ea11
+121	10644	7518354232940544	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	81fb397c7396820a
+246	10668	7518354233281868	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f25dd867a4bf7c61
+10080	10845	7518354234060779	C:/Users/NewAdminAccount/Documents/GitHub/TWD-Trahir-App/Trahir App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n5k444d/obj/arm64-v8a/libswappywrapper.so	fca3efec336344ac
+9338	11680	7518354243400991	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	56a9e89c84a965a7
+9458	11822	7518354244774484	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fcfe35b4c6a6ccc2
+11822	12624	7518354251452395	C:/Users/NewAdminAccount/Documents/GitHub/TWD-Trahir-App/Trahir App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n5k444d/obj/arm64-v8a/libgame.so	d0aa5d189ea1494b

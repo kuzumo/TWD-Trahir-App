@@ -1,0 +1,2956 @@
+fileFormatVersion: 2
+guid: 1a92151e10aac56478be0d2473909f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5950203465593267115
+    second: GRAY Dice Rolls_0
+  - first:
+      213: -3664365134934358249
+    second: GRAY Dice Rolls_1
+  - first:
+      213: -2097969730785530908
+    second: GRAY Dice Rolls_2
+  - first:
+      213: -4835140808742356889
+    second: GRAY Dice Rolls_3
+  - first:
+      213: -1871823116519543411
+    second: GRAY Dice Rolls_4
+  - first:
+      213: -6613316531828624582
+    second: GRAY Dice Rolls_5
+  - first:
+      213: -7040186903069099388
+    second: GRAY Dice Rolls_6
+  - first:
+      213: 8555958190427916033
+    second: GRAY Dice Rolls_7
+  - first:
+      213: -8491924219767247334
+    second: GRAY Dice Rolls_8
+  - first:
+      213: 1477980989971242437
+    second: GRAY Dice Rolls_9
+  - first:
+      213: -7577406323890906872
+    second: GRAY Dice Rolls_10
+  - first:
+      213: -3298565236029678116
+    second: GRAY Dice Rolls_11
+  - first:
+      213: -171332112817565124
+    second: GRAY Dice Rolls_12
+  - first:
+      213: 2426693923727901410
+    second: GRAY Dice Rolls_13
+  - first:
+      213: -3975705857810888206
+    second: GRAY Dice Rolls_14
+  - first:
+      213: -4771006739274499913
+    second: GRAY Dice Rolls_15
+  - first:
+      213: 7047847538970777760
+    second: GRAY Dice Rolls_16
+  - first:
+      213: 3275557030187555477
+    second: GRAY Dice Rolls_17
+  - first:
+      213: 4063643595646849317
+    second: GRAY Dice Rolls_18
+  - first:
+      213: -6618436724350231623
+    second: GRAY Dice Rolls_19
+  - first:
+      213: 7451409928768925585
+    second: GRAY Dice Rolls_20
+  - first:
+      213: -8327607467356171990
+    second: GRAY Dice Rolls_21
+  - first:
+      213: -2632474831276887597
+    second: GRAY Dice Rolls_22
+  - first:
+      213: 2693814356026963210
+    second: GRAY Dice Rolls_23
+  - first:
+      213: -6310427962390777796
+    second: GRAY Dice Rolls_24
+  - first:
+      213: 6176781208857984721
+    second: GRAY Dice Rolls_25
+  - first:
+      213: 6386601158111913358
+    second: GRAY Dice Rolls_26
+  - first:
+      213: 1280646361319384357
+    second: GRAY Dice Rolls_27
+  - first:
+      213: -7329902744308769536
+    second: GRAY Dice Rolls_28
+  - first:
+      213: 882162613719506291
+    second: GRAY Dice Rolls_29
+  - first:
+      213: 2793847827259501156
+    second: GRAY Dice Rolls_30
+  - first:
+      213: -3706434659868328295
+    second: GRAY Dice Rolls_31
+  - first:
+      213: 2803567770719368485
+    second: GRAY Dice Rolls_32
+  - first:
+      213: -3506069785190569739
+    second: GRAY Dice Rolls_33
+  - first:
+      213: -1156397033931933155
+    second: GRAY Dice Rolls_34
+  - first:
+      213: -82604304290352219
+    second: GRAY Dice Rolls_35
+  - first:
+      213: 8913679384735208593
+    second: GRAY Dice Rolls_36
+  - first:
+      213: 110856666598176355
+    second: GRAY Dice Rolls_37
+  - first:
+      213: -1067467886753868615
+    second: GRAY Dice Rolls_38
+  - first:
+      213: 3685580068919293226
+    second: GRAY Dice Rolls_39
+  - first:
+      213: -227759310484610079
+    second: GRAY Dice Rolls_40
+  - first:
+      213: -70367272673833513
+    second: GRAY Dice Rolls_41
+  - first:
+      213: 3406450771290895439
+    second: GRAY Dice Rolls_42
+  - first:
+      213: -1232297926660044521
+    second: GRAY Dice Rolls_43
+  - first:
+      213: -8220624580339334955
+    second: GRAY Dice Rolls_44
+  - first:
+      213: -4697257839021129310
+    second: GRAY Dice Rolls_45
+  - first:
+      213: 5296553502327300978
+    second: GRAY Dice Rolls_46
+  - first:
+      213: 6496948342110138743
+    second: GRAY Dice Rolls_47
+  - first:
+      213: -1864291955823712084
+    second: GRAY Dice Rolls_48
+  - first:
+      213: 5347914419642231347
+    second: GRAY Dice Rolls_49
+  - first:
+      213: -3960711790532484556
+    second: GRAY Dice Rolls_50
+  - first:
+      213: -8156742508750024949
+    second: GRAY Dice Rolls_51
+  - first:
+      213: 2371138020727047671
+    second: GRAY Dice Rolls_52
+  - first:
+      213: 7486260386167976571
+    second: GRAY Dice Rolls_53
+  - first:
+      213: -6809758428839531099
+    second: GRAY Dice Rolls_54
+  - first:
+      213: -3066665196252958832
+    second: GRAY Dice Rolls_55
+  - first:
+      213: -5104820280024945328
+    second: GRAY Dice Rolls_56
+  - first:
+      213: -3545719951039359217
+    second: GRAY Dice Rolls_57
+  - first:
+      213: -7701883788973712204
+    second: GRAY Dice Rolls_58
+  - first:
+      213: 3868895298787740280
+    second: GRAY Dice Rolls_59
+  - first:
+      213: -1195918642174159640
+    second: GRAY Dice Rolls_60
+  - first:
+      213: 6064781010405085066
+    second: GRAY Dice Rolls_61
+  - first:
+      213: -4113867326289907810
+    second: GRAY Dice Rolls_62
+  - first:
+      213: -3361267100733420929
+    second: GRAY Dice Rolls_63
+  - first:
+      213: 488679970934439502
+    second: GRAY Dice Rolls_64
+  - first:
+      213: 6296776956663151084
+    second: GRAY Dice Rolls_65
+  - first:
+      213: 8300037306631741059
+    second: GRAY Dice Rolls_66
+  - first:
+      213: 3934177822075439335
+    second: GRAY Dice Rolls_67
+  - first:
+      213: 7981902099052740679
+    second: GRAY Dice Rolls_68
+  - first:
+      213: 8897288539752160895
+    second: GRAY Dice Rolls_69
+  - first:
+      213: 8365907378581137810
+    second: GRAY Dice Rolls_70
+  - first:
+      213: 645732602402709173
+    second: GRAY Dice Rolls_71
+  - first:
+      213: 5582102318616457617
+    second: GRAY Dice Rolls_72
+  - first:
+      213: -8545019641758053284
+    second: GRAY Dice Rolls_73
+  - first:
+      213: 8823002310899008236
+    second: GRAY Dice Rolls_74
+  - first:
+      213: -8422852927333611611
+    second: GRAY Dice Rolls_75
+  - first:
+      213: -2252025922632380281
+    second: GRAY Dice Rolls_76
+  - first:
+      213: -8528696491372667693
+    second: GRAY Dice Rolls_77
+  - first:
+      213: -3350454462962497484
+    second: GRAY Dice Rolls_78
+  - first:
+      213: -5139635264381874927
+    second: GRAY Dice Rolls_79
+  - first:
+      213: 6077537249713323735
+    second: GRAY Dice Rolls_80
+  - first:
+      213: 4007087936582605240
+    second: GRAY Dice Rolls_81
+  - first:
+      213: 1171583287277249039
+    second: GRAY Dice Rolls_82
+  - first:
+      213: 4654000580362569480
+    second: GRAY Dice Rolls_83
+  - first:
+      213: 3279010292466905462
+    second: GRAY Dice Rolls_84
+  - first:
+      213: 761748566977786704
+    second: GRAY Dice Rolls_85
+  - first:
+      213: 8631440128952017777
+    second: GRAY Dice Rolls_86
+  - first:
+      213: -6717624275803554883
+    second: GRAY Dice Rolls_87
+  - first:
+      213: -8577515491197249742
+    second: GRAY Dice Rolls_88
+  - first:
+      213: 7353079427590408223
+    second: GRAY Dice Rolls_89
+  - first:
+      213: -3084977133583353315
+    second: GRAY Dice Rolls_90
+  - first:
+      213: -1420312876511863032
+    second: GRAY Dice Rolls_91
+  - first:
+      213: -5683576394096355491
+    second: GRAY Dice Rolls_92
+  - first:
+      213: 2869381389226599833
+    second: GRAY Dice Rolls_93
+  - first:
+      213: 4396812867883774749
+    second: GRAY Dice Rolls_94
+  - first:
+      213: -1235318042203669599
+    second: GRAY Dice Rolls_95
+  - first:
+      213: 2336678319547837695
+    second: GRAY Dice Rolls_96
+  - first:
+      213: -987247809153935029
+    second: GRAY Dice Rolls_97
+  - first:
+      213: -1662088016616915790
+    second: GRAY Dice Rolls_98
+  - first:
+      213: -4579710012208991046
+    second: GRAY Dice Rolls_99
+  - first:
+      213: -5820749872274590900
+    second: GRAY Dice Rolls_100
+  - first:
+      213: 8106067093412744110
+    second: GRAY Dice Rolls_101
+  - first:
+      213: -5502665531819837351
+    second: GRAY Dice Rolls_102
+  - first:
+      213: -2458359878138593320
+    second: GRAY Dice Rolls_103
+  - first:
+      213: 1843884489149766939
+    second: GRAY Dice Rolls_104
+  - first:
+      213: -6169636103801183366
+    second: GRAY Dice Rolls_105
+  - first:
+      213: -5694711481472597186
+    second: GRAY Dice Rolls_106
+  - first:
+      213: 8750885096598608160
+    second: GRAY Dice Rolls_107
+  - first:
+      213: -8278037861021928304
+    second: GRAY Dice Rolls_108
+  - first:
+      213: 3594809376217929440
+    second: GRAY Dice Rolls_109
+  - first:
+      213: 2625864941052398204
+    second: GRAY Dice Rolls_110
+  - first:
+      213: -1468874862378817829
+    second: GRAY Dice Rolls_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1910
+        width: 226
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd30c3971ac6da0800000000000000
+      internalID: -5950203465593267115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1911
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71749ec035f852dc0800000000000000
+      internalID: -3664365134934358249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1905
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba10735a382e2e0800000000000000
+      internalID: -2097969730785530908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1909
+        width: 227
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768bae75d0126ecb0800000000000000
+      internalID: -4835140808742356889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1901
+        width: 192
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dec79fac2f506e0800000000000000
+      internalID: -1871823116519543411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_5
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1908
+        width: 217
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f22537a7c834a0800000000000000
+      internalID: -6613316531828624582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1908
+        width: 222
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a753aef4b3c4e90800000000000000
+      internalID: -7040186903069099388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_7
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1909
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107cc8d84aedcb670800000000000000
+      internalID: 8555958190427916033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1909
+        width: 228
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eac3d0aef962a80800000000000000
+      internalID: -8491924219767247334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_9
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1909
+        width: 217
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd140431e7d28410800000000000000
+      internalID: 1477980989971242437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_10
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1908
+        width: 178
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8091fa16815a7d690800000000000000
+      internalID: -7577406323890906872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_11
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1908
+        width: 224
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd9ff5f4642932d0800000000000000
+      internalID: -3298565236029678116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_12
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1908
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3254e4e95e4f9df0800000000000000
+      internalID: -171332112817565124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_13
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1907
+        width: 189
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2866634495da120800000000000000
+      internalID: 2426693923727901410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_14
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1907
+        width: 226
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90eb5269473d8c0800000000000000
+      internalID: -3975705857810888206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_15
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 1901
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87c8406aaf9cdb0800000000000000
+      internalID: -4771006739274499913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1669
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d67fdefbfec160800000000000000
+      internalID: 7047847538970777760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1659
+        width: 198
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59adcd9a3cd157d20800000000000000
+      internalID: 3275557030187555477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1657
+        width: 220
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215254f156f46830800000000000000
+      internalID: 4063643595646849317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1657
+        width: 190
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb54bc7dd69624a0800000000000000
+      internalID: -6618436724350231623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1665
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f2718d9d9b86760800000000000000
+      internalID: 7451409928768925585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_21
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1673
+        width: 172
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21585741256e6c80800000000000000
+      internalID: -8327607467356171990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1671
+        width: 201
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b591a612977bd0800000000000000
+      internalID: -2632474831276887597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1666
+        width: 209
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b5d562e9526520800000000000000
+      internalID: 2693814356026963210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_24
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1660
+        width: 222
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307109c33bdc68a0800000000000000
+      internalID: -6310427962390777796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_25
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1663
+        width: 185
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb94198c558b550800000000000000
+      internalID: 6176781208857984721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_26
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1656
+        width: 180
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85eb576ae3c1a850800000000000000
+      internalID: 6386601158111913358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_27
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1652
+        width: 193
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a6599415c5c110800000000000000
+      internalID: 1280646361319384357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_28
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1651
+        width: 202
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d905f1a44f64a90800000000000000
+      internalID: -7329902744308769536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_29
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1649
+        width: 213
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d91e829321e3c00800000000000000
+      internalID: 882162613719506291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_30
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1651
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aac44ebcdb5c620800000000000000
+      internalID: 2793847827259501156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_31
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1650
+        width: 188
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e3a5b7059109cc0800000000000000
+      internalID: -3706434659868328295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1415
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253675980648e620800000000000000
+      internalID: 2803567770719368485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1399
+        width: 201
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86cf73b10f75fc0800000000000000
+      internalID: -3506069785190569739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1399
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afb254607a3ffe0800000000000000
+      internalID: -1156397033931933155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1398
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3fad9a2d78adef0800000000000000
+      internalID: -82604304290352219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1405
+        width: 153
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945dd87c20c3bb70800000000000000
+      internalID: 8913679384735208593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_37
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1416
+        width: 166
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36671990d87d98100800000000000000
+      internalID: 110856666598176355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_38
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1415
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b416e8dc979f21f0800000000000000
+      internalID: -1067467886753868615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_39
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1403
+        width: 212
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b13fab8fc52330800000000000000
+      internalID: 3685580068919293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_40
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1401
+        width: 221
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e6442d16d6dcf0800000000000000
+      internalID: -227759310484610079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_41
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1403
+        width: 181
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd867c9651060ff0800000000000000
+      internalID: -70367272673833513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_42
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1399
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4436a7ade4264f20800000000000000
+      internalID: 3406450771290895439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_43
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1394
+        width: 191
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7194aff809ff5eee0800000000000000
+      internalID: -1232297926660044521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_44
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1392
+        width: 200
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08709bf797aed80800000000000000
+      internalID: -8220624580339334955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_45
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1391
+        width: 214
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a10abee1ecffceb0800000000000000
+      internalID: -4697257839021129310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_46
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1394
+        width: 194
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e1181953218940800000000000000
+      internalID: 5296553502327300978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_47
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1393
+        width: 186
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771b987481cc92a50800000000000000
+      internalID: 6496948342110138743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1157
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca86287f754b026e0800000000000000
+      internalID: -1864291955823712084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1140
+        width: 194
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae6f784db973a40800000000000000
+      internalID: 5347914419642231347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1139
+        width: 212
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4322c9b7c99b809c0800000000000000
+      internalID: -3960711790532484556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_51
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1135
+        width: 192
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f40a197ed6dce80800000000000000
+      internalID: -8156742508750024949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_52
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1145
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5cbde8779f7e020800000000000000
+      internalID: 2371138020727047671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_53
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1158
+        width: 156
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72fe95482a84e760800000000000000
+      internalID: 7486260386167976571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_54
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1154
+        width: 204
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad2cc2e9c0ee71a0800000000000000
+      internalID: -6809758428839531099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1139
+        width: 219
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fe94c70440175d0800000000000000
+      internalID: -3066665196252958832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_56
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1142
+        width: 222
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d27e670090829b0800000000000000
+      internalID: -5104820280024945328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_57
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1145
+        width: 169
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0798459d721bcec0800000000000000
+      internalID: -3545719951039359217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_58
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1140
+        width: 174
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcd1e010896d1590800000000000000
+      internalID: -7701883788973712204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_59
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1135
+        width: 185
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0c65a6c311b530800000000000000
+      internalID: 3868895298787740280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_60
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1133
+        width: 200
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e411f8c45e376fe0800000000000000
+      internalID: -1195918642174159640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_61
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1131
+        width: 213
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fcab5423e6a2450800000000000000
+      internalID: 6064781010405085066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_62
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1134
+        width: 199
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f6763867b98e6c0800000000000000
+      internalID: -4113867326289907810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_63
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1133
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac39171616a51d0800000000000000
+      internalID: -3361267100733420929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 907
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e356c28d328c600800000000000000
+      internalID: 488679970934439502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 891
+        width: 194
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9b5c3c745a26750800000000000000
+      internalID: 6296776956663151084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 888
+        width: 216
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e564474f7af2370800000000000000
+      internalID: 8300037306631741059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 886
+        width: 187
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c60092e1099630800000000000000
+      internalID: 3934177822075439335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 897
+        width: 154
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740cbfd4ba965ce60800000000000000
+      internalID: 7981902099052740679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_69
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 907
+        width: 153
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed41c79c4897b70800000000000000
+      internalID: 8897288539752160895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_70
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 905
+        width: 206
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e524bf6ca91470800000000000000
+      internalID: 8365907378581137810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_71
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 887
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1a12716a16f800800000000000000
+      internalID: 645732602402709173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_72
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 892
+        width: 223
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b409cb7c977d40800000000000000
+      internalID: 5582102318616457617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_73
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 899
+        width: 163
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c8646c8edf96980800000000000000
+      internalID: -8545019641758053284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_74
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 891
+        width: 174
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce206910bd9917a70800000000000000
+      internalID: 8823002310899008236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_75
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 887
+        width: 185
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cbe683e30c1b80800000000000000
+      internalID: -8422852927333611611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_76
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 883
+        width: 200
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7809688ea523fb0e0800000000000000
+      internalID: -2252025922632380281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_77
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 882
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc9c926abbf3a980800000000000000
+      internalID: -8528696491372667693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_78
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 885
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4388ffada6bc081d0800000000000000
+      internalID: -3350454462962497484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_79
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 887
+        width: 181
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d827f35f85ca8b0800000000000000
+      internalID: -5139635264381874927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 648
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7defd5eadefb75450800000000000000
+      internalID: 6077537249713323735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 633
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b952c37f390c9730800000000000000
+      internalID: 4007087936582605240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 632
+        width: 217
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e1fedacc424010800000000000000
+      internalID: 1171583287277249039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_83
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 628
+        width: 196
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80709f0bed4569040800000000000000
+      internalID: 4654000580362569480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_84
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 637
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f651fc72618d20800000000000000
+      internalID: 3279010292466905462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_85
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 647
+        width: 153
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053bfd62946429a00800000000000000
+      internalID: 761748566977786704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_86
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 643
+        width: 203
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173ac32e01909c770800000000000000
+      internalID: 8631440128952017777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_87
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 628
+        width: 221
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb303a005436c2a0800000000000000
+      internalID: -6717624275803554883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_88
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 632
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23717cb3b1b86f880800000000000000
+      internalID: -8577515491197249742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_89
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 643
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1842c6f7c26b0660800000000000000
+      internalID: 7353079427590408223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_90
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 632
+        width: 175
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1abf8454a5ff25d0800000000000000
+      internalID: -3084977133583353315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_91
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 625
+        width: 192
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd895c6f80a4ce0800000000000000
+      internalID: -1420312876511863032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_92
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 626
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575718e161ef11b0800000000000000
+      internalID: -5683576394096355491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_93
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 623
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e7fdbb2712d720800000000000000
+      internalID: 2869381389226599833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_94
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 627
+        width: 194
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13341e020e940d30800000000000000
+      internalID: 4396812867883774749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_95
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 632
+        width: 188
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb1dd19c44bdee0800000000000000
+      internalID: -1235318042203669599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc61072d8c8d6020800000000000000
+      internalID: 2336678319547837695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_97
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 357
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d81629579c42f0800000000000000
+      internalID: -987247809153935029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 346
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc7d1841c31fe8e0800000000000000
+      internalID: -1662088016616915790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 345
+        width: 192
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4bbfb120a9170c0800000000000000
+      internalID: -4579710012208991046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_100
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 355
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433ca0b4da883fa0800000000000000
+      internalID: -5820749872274590900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_101
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 363
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab895cd2198e7070800000000000000
+      internalID: 8106067093412744110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_102
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 355
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958b71a6ada92a3b0800000000000000
+      internalID: -5502665531819837351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_103
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 347
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dff97d37b622edd0800000000000000
+      internalID: -2458359878138593320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_104
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 349
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ddf9e6c2bc69910800000000000000
+      internalID: 1843884489149766939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_105
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 359
+        width: 169
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a736187d6ac016aa0800000000000000
+      internalID: -6169636103801183366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_106
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 350
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33cc78541258f0b0800000000000000
+      internalID: -5694711481472597186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_107
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 343
+        width: 193
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029150591a3617970800000000000000
+      internalID: 8750885096598608160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_108
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 347
+        width: 194
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094bd80ac608e1d80800000000000000
+      internalID: -8278037861021928304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_109
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 344
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e696b0e41453e130800000000000000
+      internalID: 3594809376217929440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_110
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 351
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a849f5042f07420800000000000000
+      internalID: 2625864941052398204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRAY Dice Rolls_111
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 352
+        width: 188
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e86858128d9be0800000000000000
+      internalID: -1468874862378817829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

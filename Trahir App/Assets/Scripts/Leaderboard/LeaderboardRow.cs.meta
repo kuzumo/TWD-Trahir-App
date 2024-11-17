@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 029cdda0c82983a42afb1d7c19f5d43b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rankText: {fileID: 3253064130198545482, guid: b83d112ac64f97d4ea75207df7692acc, type: 3}
+  - teamNameText: {instanceID: 0}
+  - winScoreText: {instanceID: 0}
+  - lossScoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

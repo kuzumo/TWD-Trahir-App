@@ -1,0 +1,2956 @@
+fileFormatVersion: 2
+guid: 45c3f7269d6585b4b924c4a8bed6f32c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1733095861450927510
+    second: purple Dice Rolls_0
+  - first:
+      213: -760000452955938357
+    second: purple Dice Rolls_1
+  - first:
+      213: -3210034615257330947
+    second: purple Dice Rolls_2
+  - first:
+      213: 759539523850780374
+    second: purple Dice Rolls_3
+  - first:
+      213: -5340909728928841645
+    second: purple Dice Rolls_4
+  - first:
+      213: -6451967533185157171
+    second: purple Dice Rolls_5
+  - first:
+      213: 3892222427740513167
+    second: purple Dice Rolls_6
+  - first:
+      213: -5429606717731336772
+    second: purple Dice Rolls_7
+  - first:
+      213: 828959746730745617
+    second: purple Dice Rolls_8
+  - first:
+      213: -7279040842457686253
+    second: purple Dice Rolls_9
+  - first:
+      213: 7819285311463781845
+    second: purple Dice Rolls_10
+  - first:
+      213: 4372975431664337568
+    second: purple Dice Rolls_11
+  - first:
+      213: -6397997342510135271
+    second: purple Dice Rolls_12
+  - first:
+      213: 2797303393525899602
+    second: purple Dice Rolls_13
+  - first:
+      213: -3022501221061672536
+    second: purple Dice Rolls_14
+  - first:
+      213: -6827540473182811218
+    second: purple Dice Rolls_15
+  - first:
+      213: 944699886149211004
+    second: purple Dice Rolls_16
+  - first:
+      213: -4917099042509976673
+    second: purple Dice Rolls_17
+  - first:
+      213: -6802266329387170656
+    second: purple Dice Rolls_18
+  - first:
+      213: 1825896352757790279
+    second: purple Dice Rolls_19
+  - first:
+      213: -360727592481280229
+    second: purple Dice Rolls_20
+  - first:
+      213: 8953048668993625155
+    second: purple Dice Rolls_21
+  - first:
+      213: 6629363780850873720
+    second: purple Dice Rolls_22
+  - first:
+      213: 7986027551107152251
+    second: purple Dice Rolls_23
+  - first:
+      213: 5185948949244621125
+    second: purple Dice Rolls_24
+  - first:
+      213: 2693046933793287486
+    second: purple Dice Rolls_25
+  - first:
+      213: -7185313252373569719
+    second: purple Dice Rolls_26
+  - first:
+      213: 989728163134619821
+    second: purple Dice Rolls_27
+  - first:
+      213: 989167969798406993
+    second: purple Dice Rolls_28
+  - first:
+      213: -3180302082890591618
+    second: purple Dice Rolls_29
+  - first:
+      213: -3639168421889347399
+    second: purple Dice Rolls_30
+  - first:
+      213: -4519503970223671108
+    second: purple Dice Rolls_31
+  - first:
+      213: -67760733592321809
+    second: purple Dice Rolls_32
+  - first:
+      213: 302694763521858671
+    second: purple Dice Rolls_33
+  - first:
+      213: 3680659371360007085
+    second: purple Dice Rolls_34
+  - first:
+      213: 1954614986783782996
+    second: purple Dice Rolls_35
+  - first:
+      213: 6696246930773740971
+    second: purple Dice Rolls_36
+  - first:
+      213: 8329441729954903126
+    second: purple Dice Rolls_37
+  - first:
+      213: -1894186328166240612
+    second: purple Dice Rolls_38
+  - first:
+      213: -8733908847891991753
+    second: purple Dice Rolls_39
+  - first:
+      213: -8989986492155121361
+    second: purple Dice Rolls_40
+  - first:
+      213: -3393009206461079026
+    second: purple Dice Rolls_41
+  - first:
+      213: -1963688584141037251
+    second: purple Dice Rolls_42
+  - first:
+      213: -5606387964735972806
+    second: purple Dice Rolls_43
+  - first:
+      213: 6047456234541466524
+    second: purple Dice Rolls_44
+  - first:
+      213: -4051013045010412383
+    second: purple Dice Rolls_45
+  - first:
+      213: -282233880020158934
+    second: purple Dice Rolls_46
+  - first:
+      213: 6557130685393724284
+    second: purple Dice Rolls_47
+  - first:
+      213: -1411321325388461193
+    second: purple Dice Rolls_48
+  - first:
+      213: 8718617399105358116
+    second: purple Dice Rolls_49
+  - first:
+      213: -577847522042832253
+    second: purple Dice Rolls_50
+  - first:
+      213: 5764979607587445824
+    second: purple Dice Rolls_51
+  - first:
+      213: -5925496391694349373
+    second: purple Dice Rolls_52
+  - first:
+      213: 946294740171021320
+    second: purple Dice Rolls_53
+  - first:
+      213: 1126971187729929287
+    second: purple Dice Rolls_54
+  - first:
+      213: 271004027293961400
+    second: purple Dice Rolls_55
+  - first:
+      213: 7031804655224112734
+    second: purple Dice Rolls_56
+  - first:
+      213: 8914995770726671775
+    second: purple Dice Rolls_57
+  - first:
+      213: 8650991499757130202
+    second: purple Dice Rolls_58
+  - first:
+      213: -8852563932056267829
+    second: purple Dice Rolls_59
+  - first:
+      213: 5580499898887252400
+    second: purple Dice Rolls_60
+  - first:
+      213: 2224990571522566920
+    second: purple Dice Rolls_61
+  - first:
+      213: 9057862598693220816
+    second: purple Dice Rolls_62
+  - first:
+      213: -5246972555404931163
+    second: purple Dice Rolls_63
+  - first:
+      213: 2026893653492923480
+    second: purple Dice Rolls_64
+  - first:
+      213: -6074929925955717572
+    second: purple Dice Rolls_65
+  - first:
+      213: 767583023221405592
+    second: purple Dice Rolls_66
+  - first:
+      213: 231803598949446093
+    second: purple Dice Rolls_67
+  - first:
+      213: -516165467145038908
+    second: purple Dice Rolls_68
+  - first:
+      213: 8191255350808517320
+    second: purple Dice Rolls_69
+  - first:
+      213: -8840664400270803338
+    second: purple Dice Rolls_70
+  - first:
+      213: 6060599113147569787
+    second: purple Dice Rolls_71
+  - first:
+      213: 4019272836611708676
+    second: purple Dice Rolls_72
+  - first:
+      213: 3657431599892366641
+    second: purple Dice Rolls_73
+  - first:
+      213: 5482012234759209031
+    second: purple Dice Rolls_74
+  - first:
+      213: 7476673405559105739
+    second: purple Dice Rolls_75
+  - first:
+      213: 8134570777144901113
+    second: purple Dice Rolls_76
+  - first:
+      213: -8291229499039290091
+    second: purple Dice Rolls_77
+  - first:
+      213: -1380243846784746429
+    second: purple Dice Rolls_78
+  - first:
+      213: -6108101268656423132
+    second: purple Dice Rolls_79
+  - first:
+      213: 8416505738439620742
+    second: purple Dice Rolls_80
+  - first:
+      213: -5629635070646342593
+    second: purple Dice Rolls_81
+  - first:
+      213: -6597677911215063071
+    second: purple Dice Rolls_82
+  - first:
+      213: -6254000657378428952
+    second: purple Dice Rolls_83
+  - first:
+      213: -6171360414317105701
+    second: purple Dice Rolls_84
+  - first:
+      213: 1230743157106022349
+    second: purple Dice Rolls_85
+  - first:
+      213: -7000920696032651704
+    second: purple Dice Rolls_86
+  - first:
+      213: 8548964053955223243
+    second: purple Dice Rolls_87
+  - first:
+      213: 8517753125174541447
+    second: purple Dice Rolls_88
+  - first:
+      213: 645792581549241758
+    second: purple Dice Rolls_89
+  - first:
+      213: -532247429305231033
+    second: purple Dice Rolls_90
+  - first:
+      213: 8888475658542704727
+    second: purple Dice Rolls_91
+  - first:
+      213: 2250869303972014004
+    second: purple Dice Rolls_92
+  - first:
+      213: -85143705681711713
+    second: purple Dice Rolls_93
+  - first:
+      213: 7279362424980925159
+    second: purple Dice Rolls_94
+  - first:
+      213: 8971321899386876295
+    second: purple Dice Rolls_95
+  - first:
+      213: -3762268449156283692
+    second: purple Dice Rolls_96
+  - first:
+      213: -8854925081064569942
+    second: purple Dice Rolls_97
+  - first:
+      213: 7295777278509024982
+    second: purple Dice Rolls_98
+  - first:
+      213: 4661188339108727263
+    second: purple Dice Rolls_99
+  - first:
+      213: 2515701334010082611
+    second: purple Dice Rolls_100
+  - first:
+      213: -5803070450566589069
+    second: purple Dice Rolls_101
+  - first:
+      213: 3141545579071326219
+    second: purple Dice Rolls_102
+  - first:
+      213: 2806915275772035678
+    second: purple Dice Rolls_103
+  - first:
+      213: 4268541318522960473
+    second: purple Dice Rolls_104
+  - first:
+      213: 3663856710953737590
+    second: purple Dice Rolls_105
+  - first:
+      213: -2620219292254337083
+    second: purple Dice Rolls_106
+  - first:
+      213: 1842464893151557800
+    second: purple Dice Rolls_107
+  - first:
+      213: 1096530227186976121
+    second: purple Dice Rolls_108
+  - first:
+      213: -8040213177652645970
+    second: purple Dice Rolls_109
+  - first:
+      213: -1775295290752811037
+    second: purple Dice Rolls_110
+  - first:
+      213: 4655975908511490292
+    second: purple Dice Rolls_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple Dice Rolls_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1910
+        width: 226
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d6b7fe0813d0810800000000000000
+      internalID: 1733095861450927510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1911
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ec6c5d9fe375f0800000000000000
+      internalID: -760000452955938357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1905
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa01e0668aa373d0800000000000000
+      internalID: -3210034615257330947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1909
+        width: 227
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debef73c2d6a8a00800000000000000
+      internalID: 759539523850780374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1901
+        width: 192
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350c4cd16e641e5b0800000000000000
+      internalID: -5340909728928841645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_5
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1908
+        width: 217
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7352a66b10676a0800000000000000
+      internalID: -6451967533185157171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1908
+        width: 222
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8328481da3f30630800000000000000
+      internalID: 3892222427740513167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_7
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1909
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8c8f157926a4b0800000000000000
+      internalID: -5429606717731336772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1909
+        width: 228
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fdbf46f7e018b00800000000000000
+      internalID: 828959746730745617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_9
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1909
+        width: 217
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdfb77be6abfa90800000000000000
+      internalID: -7279040842457686253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_10
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1908
+        width: 178
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d57a3bff8ea38c60800000000000000
+      internalID: 7819285311463781845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_11
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1908
+        width: 224
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20ddf6cfdefac30800000000000000
+      internalID: 4372975431664337568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_12
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1908
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9184ac5a05fb537a0800000000000000
+      internalID: -6397997342510135271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_13
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1907
+        width: 189
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512b1c9d9402d620800000000000000
+      internalID: 2797303393525899602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_14
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1907
+        width: 226
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a14f61472bed06d0800000000000000
+      internalID: -3022501221061672536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_15
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 1901
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab065e0d14bf31a0800000000000000
+      internalID: -6827540473182811218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1669
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73964d8a8f3c1d00800000000000000
+      internalID: 944699886149211004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1659
+        width: 198
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b87c50974f2cbb0800000000000000
+      internalID: -4917099042509976673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1657
+        width: 220
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4074930de7991a0800000000000000
+      internalID: -6802266329387170656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1657
+        width: 190
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7463fce0f03e65910800000000000000
+      internalID: 1825896352757790279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1665
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fa8757a207efaf0800000000000000
+      internalID: -360727592481280229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_21
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1673
+        width: 172
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1624445e9f3c70800000000000000
+      internalID: 8953048668993625155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1671
+        width: 201
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f47c1c3b300c50800000000000000
+      internalID: 6629363780850873720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1666
+        width: 209
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b797936feb114de60800000000000000
+      internalID: 7986027551107152251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_24
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1660
+        width: 222
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541390fc71138f740800000000000000
+      internalID: 5185948949244621125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_25
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1663
+        width: 185
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d243cfaef9f5520800000000000000
+      internalID: 2693046933793287486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_26
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1656
+        width: 180
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fdd589aa3a84c90800000000000000
+      internalID: -7185313252373569719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_27
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1652
+        width: 193
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c6d345883cbd00800000000000000
+      internalID: 989728163134619821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_28
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1651
+        width: 202
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534707170b3abd00800000000000000
+      internalID: 989167969798406993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_29
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1649
+        width: 213
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e721fd60b1c4dd3d0800000000000000
+      internalID: -3180302082890591618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_30
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1651
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07777f9931f7dc0800000000000000
+      internalID: -3639168421889347399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_31
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1650
+        width: 188
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b9dd951f7741c0800000000000000
+      internalID: -4519503970223671108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1415
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08288c8f34f0ff0800000000000000
+      internalID: -67760733592321809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1399
+        width: 201
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c571f9843633400800000000000000
+      internalID: 302694763521858671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1399
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da330218234541330800000000000000
+      internalID: 3680659371360007085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1398
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f6e779ff202b10800000000000000
+      internalID: 1954614986783782996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1405
+        width: 153
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad8115fa19ddec50800000000000000
+      internalID: 6696246930773740971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_37
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1416
+        width: 166
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f6434f1f189370800000000000000
+      internalID: 8329441729954903126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_38
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1415
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eef33029f76b5e0800000000000000
+      internalID: -1894186328166240612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_39
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1403
+        width: 212
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b1c45d2ceac680800000000000000
+      internalID: -8733908847891991753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_40
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1401
+        width: 221
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21b8879ae62d3380800000000000000
+      internalID: -8989986492155121361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_41
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1403
+        width: 181
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e1498a1c99e0d0800000000000000
+      internalID: -3393009206461079026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_42
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1399
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31a8c403a39fb4e0800000000000000
+      internalID: -1963688584141037251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_43
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1394
+        width: 191
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a13e899db1232b0800000000000000
+      internalID: -5606387964735972806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_44
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1392
+        width: 200
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c09e8761ece350800000000000000
+      internalID: 6047456234541466524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_45
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1391
+        width: 214
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac4ea74919e7c7c0800000000000000
+      internalID: -4051013045010412383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_46
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1394
+        width: 194
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2671dd08cd451cf0800000000000000
+      internalID: -282233880020158934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_47
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1393
+        width: 186
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e4b00e9b9ffa50800000000000000
+      internalID: 6557130685393724284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1157
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b89486bbaf96ce0800000000000000
+      internalID: -1411321325388461193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1140
+        width: 194
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429073ec450cef870800000000000000
+      internalID: 8718617399105358116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1139
+        width: 212
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a1c428db21bf7f0800000000000000
+      internalID: -577847522042832253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_51
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1135
+        width: 192
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cde9fa862510050800000000000000
+      internalID: 5764979607587445824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_52
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1145
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb03372d6864cda0800000000000000
+      internalID: -5925496391694349373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_53
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1158
+        width: 156
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd6b07d0ae12d00800000000000000
+      internalID: 946294740171021320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_54
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1154
+        width: 204
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441eb4035ec3af00800000000000000
+      internalID: 1126971187729929287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1139
+        width: 219
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc8e8b1abcc2c300800000000000000
+      internalID: 271004027293961400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_56
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1142
+        width: 222
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56429ce31df59160800000000000000
+      internalID: 7031804655224112734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_57
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1145
+        width: 169
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e5487b6d68bb70800000000000000
+      internalID: 8914995770726671775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_58
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1140
+        width: 174
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad192f12fee7e0870800000000000000
+      internalID: 8650991499757130202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_59
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1135
+        width: 185
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d956b100652580800000000000000
+      internalID: -8852563932056267829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_60
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1133
+        width: 200
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9274e571be17d40800000000000000
+      internalID: 5580499898887252400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_61
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1131
+        width: 213
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2234e221c0ee10800000000000000
+      internalID: 2224990571522566920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_62
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1134
+        width: 199
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f76bfa0ef3bd70800000000000000
+      internalID: 9057862598693220816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_63
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1133
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8dd0b2420f27b0800000000000000
+      internalID: -5246972555404931163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 907
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c70f5f909f02c10800000000000000
+      internalID: 2026893653492923480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 891
+        width: 194
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f4003b6381bba0800000000000000
+      internalID: -6074929925955717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 888
+        width: 216
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977bba51b007aa00800000000000000
+      internalID: 767583023221405592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 886
+        width: 187
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1f9052528873300800000000000000
+      internalID: 231803598949446093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 897
+        width: 154
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31f7d0e3636d8f0800000000000000
+      internalID: -516165467145038908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_69
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 907
+        width: 153
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca9579a75f2da170800000000000000
+      internalID: 8191255350808517320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_70
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 905
+        width: 206
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eba6b5196af4580800000000000000
+      internalID: -8840664400270803338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_71
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 887
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76553178c29b1450800000000000000
+      internalID: 6060599113147569787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_72
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 892
+        width: 223
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4071e91995357c730800000000000000
+      internalID: 4019272836611708676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_73
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 899
+        width: 163
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358fd589aec1c230800000000000000
+      internalID: 3657431599892366641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_74
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 891
+        width: 174
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7400b232515041c40800000000000000
+      internalID: 5482012234759209031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_75
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 887
+        width: 185
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e5f769da72c760800000000000000
+      internalID: 7476673405559105739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_76
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 883
+        width: 200
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdbef3e50dc3e070800000000000000
+      internalID: 8134570777144901113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_77
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 882
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de58e03b2afec80800000000000000
+      internalID: -8291229499039290091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_78
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 885
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf9f0c88368dce0800000000000000
+      internalID: -1380243846784746429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_79
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 887
+        width: 181
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffe9d124aab3ba0800000000000000
+      internalID: -6108101268656423132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 648
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688fab5606f6dc470800000000000000
+      internalID: 8416505738439620742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 633
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c2b07fab48fd1b0800000000000000
+      internalID: -5629635070646342593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 632
+        width: 217
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb59f45e65074a0800000000000000
+      internalID: -6597677911215063071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_83
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 628
+        width: 196
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e736e789835539a0800000000000000
+      internalID: -6254000657378428952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_84
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 637
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda8b3866cea5aa0800000000000000
+      internalID: -6171360414317105701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_85
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 647
+        width: 153
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71c01716a741110800000000000000
+      internalID: 1230743157106022349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_86
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 643
+        width: 203
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461b4c28bbb7de90800000000000000
+      internalID: -7000920696032651704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_87
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 628
+        width: 221
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce9591438504a670800000000000000
+      internalID: 8548964053955223243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_88
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 632
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c708e9653253670800000000000000
+      internalID: 8517753125174541447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_89
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 643
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9533dd6ee056f800800000000000000
+      internalID: 645792581549241758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_90
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 632
+        width: 175
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74995a378c31d98f0800000000000000
+      internalID: -532247429305231033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_91
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 625
+        width: 192
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e42ea4853a5b70800000000000000
+      internalID: 8888475658542704727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_92
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 626
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b72513d4b1bc3f10800000000000000
+      internalID: 2250869303972014004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_93
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 623
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d2bf3304281def0800000000000000
+      internalID: -85143705681711713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_94
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 627
+        width: 194
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea605cce8d750560800000000000000
+      internalID: 7279362424980925159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_95
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 632
+        width: 188
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78133a24cb9808c70800000000000000
+      internalID: 8971321899386876295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2416267ccb9cbc0800000000000000
+      internalID: -3762268449156283692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_97
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 357
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3037edd8cfc1580800000000000000
+      internalID: -8854925081064569942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 346
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d685e5b7cecf3560800000000000000
+      internalID: 7295777278509024982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 345
+        width: 192
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c4cf291edfa040800000000000000
+      internalID: 4661188339108727263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_100
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 355
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335b5a6d80199e220800000000000000
+      internalID: 2515701334010082611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_101
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 363
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759963db2a577fa0800000000000000
+      internalID: -5803070450566589069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_102
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 355
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ce3e3f03099b20800000000000000
+      internalID: 3141545579071326219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_103
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 347
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e528207529a24f620800000000000000
+      internalID: 2806915275772035678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_104
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 349
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a73a7a6b7ec3b30800000000000000
+      internalID: 4268541318522960473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_105
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 359
+        width: 169
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d14544442a8d230800000000000000
+      internalID: 3663856710953737590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_106
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 350
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c70e8baf6c13abd0800000000000000
+      internalID: -2620219292254337083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_107
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 343
+        width: 193
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a83d6bfe00c19910800000000000000
+      internalID: 1842464893151557800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_108
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 347
+        width: 194
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97545f49e68a73f00800000000000000
+      internalID: 1096530227186976121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_109
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 344
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf699bb6bc6b6090800000000000000
+      internalID: -8040213177652645970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_110
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 351
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3147c652ec57e0800000000000000
+      internalID: -1775295290752811037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple Dice Rolls_111
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 352
+        width: 188
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0aa9d9b695d9040800000000000000
+      internalID: 4655975908511490292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
