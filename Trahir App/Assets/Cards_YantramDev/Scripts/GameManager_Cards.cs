@@ -15,7 +15,7 @@ public class GameManager_Cards : MonoBehaviour
     public Button button_SpawnCards;
     
 
-    public Text selectUsersText;
+    //public Text selectUsersText;
     public Text warningText;
 
     public Transform playersParent;
@@ -77,7 +77,7 @@ public class GameManager_Cards : MonoBehaviour
             Destroy(button_playersNumberSubmit.transform.parent.gameObject);
 
             button_SpawnCards.gameObject.SetActive(true);
-            selectUsersText.gameObject.SetActive(true);
+            //selectUsersText.gameObject.SetActive(false);
         }
         else
         {

@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - ToggleImage
+  - Trash
+  - CardSpawnPosition
+  - Card
+  - TrashCan
   layers:
   - Default
   - TransparentFX
@@ -43,6 +48,9 @@ TagManager:
     locked: 0
   - name: DiceLayer
     uniqueID: 105693753
+    locked: 0
+  - name: BG
+    uniqueID: 1484344405
     locked: 0
   m_RenderingLayers:
   - Default

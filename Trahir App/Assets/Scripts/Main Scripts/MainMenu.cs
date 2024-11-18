@@ -56,6 +56,36 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(47);
     }
 
+    public void ConfirmWitch() {
+        AudioManager.Instance.PlayButtonClickSound();
+        PushCurrentSceneToHistory();
+        SceneManager.LoadSceneAsync(48);
+    }
+
+    public void ConfirmQuit() {
+        AudioManager.Instance.PlayButtonClickSound();
+        PushCurrentSceneToHistory();
+        SceneManager.LoadSceneAsync(49);
+    }
+
+    public void roundTracker() {
+        AudioManager.Instance.PlayButtonClickSound();
+        PushCurrentSceneToHistory();
+        SceneManager.LoadSceneAsync(50);
+    }
+
+    public void EndGameTrackerBG() {
+        AudioManager.Instance.PlayButtonClickSound();
+        PushCurrentSceneToHistory();
+        SceneManager.LoadSceneAsync(51);
+    }
+
+    public void EndGamePlayerBG() {
+        AudioManager.Instance.PlayButtonClickSound();
+        PushCurrentSceneToHistory();
+        SceneManager.LoadSceneAsync(52);
+    }
+
     // This method handles going to the next round based on the round index
     public void NextRound(int roundIndex) {
         AudioManager.Instance.PlayButtonClickSound();

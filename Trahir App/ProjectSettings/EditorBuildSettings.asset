@@ -149,6 +149,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ChooseUserMode.unity
     guid: d0dce5451103a5d4cb9ffe6a5ed0be33
+  - enabled: 1
+    path: Assets/Scenes/ConfirmWitch.unity
+    guid: 9ff25263542cb9e429f400daefc4e81a
+  - enabled: 1
+    path: Assets/Scenes/QuitConfirm.unity
+    guid: 14f1f7361bf2a8241a83d464113217ce
+  - enabled: 1
+    path: Assets/Scenes/confirmTracker.unity
+    guid: e91b89edc37c9df45bb81949bac6fcfa
+  - enabled: 1
+    path: Assets/Scenes/End Round TRACKER.unity
+    guid: 670ee3eca846cdc47b1cb54190cfdf51
+  - enabled: 1
+    path: Assets/Scenes/End Game PLAYER.unity
+    guid: baa1c48becc40ab4988b9d3145917931
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -7,9 +7,11 @@ public class CardSpawner : MonoBehaviour
 {
     public Card cardPrefab;
     Random_ButThat randomCards;
+
     public Button spawnButton;
     public Button distributeCardsButton;
-    public Text selectUsersText;
+    //public Text selectUsersText;
+    
     public GameObject playersParent;
 
     void Start()
@@ -30,7 +32,7 @@ public class CardSpawner : MonoBehaviour
 
         spawnButton.gameObject.SetActive(false);
         distributeCardsButton.gameObject.SetActive(true);
-        selectUsersText.gameObject.SetActive(false);
+        //selectUsersText.gameObject.SetActive(false);
     }
 
     void SpawnCard(int i)

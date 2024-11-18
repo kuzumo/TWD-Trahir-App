@@ -58,12 +58,22 @@ public class MusicManager : MonoBehaviour
             case "Start":
                 musicToPlay = startGameBG;
                 break;
+
             case "RollDice":
                 musicToPlay = RollDiceBG;
                 break;
+
             case "DistributeSpCards":
                 musicToPlay = DistributeSpCardsBG;
                 break;
+
+            case "ChooseUserMode":
+            case "QuitConfirm":
+            //case "ConfirmWitch":
+            //case "ConfirmTracker":
+                musicToPlay = chooseUserModeBG;
+                break;
+
             case "Round 1":
             case "Round 2":
             case "Round 3":
@@ -133,12 +143,10 @@ public class MusicManager : MonoBehaviour
                 break;
                 
             case "End Round":
+            case "End Game PLAYER":
+            case "End Game TRACKER":
             case "Draw Round":
                 musicToPlay = endRoundBG;
-                break;
-
-            case "ChooseUserMode":
-                musicToPlay = chooseUserModeBG;
                 break;
         }
 

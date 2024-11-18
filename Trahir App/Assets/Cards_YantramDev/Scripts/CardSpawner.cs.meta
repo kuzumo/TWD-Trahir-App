@@ -1,11 +1,16 @@
 fileFormatVersion: 2
 guid: 85189af0a1b4cbb49bb92942f185d74e
-timeCreated: 1536921373
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cardPrefab: {instanceID: 0}
+  - destroyButtonPrefab: {fileID: 4642245462488984332, guid: 5131215bde4ac824cb56f4a49baa32fc, type: 3}
+  - cardParent: {instanceID: 0}
+  - buttonParent: {instanceID: 0}
+  - spawnButton: {instanceID: 0}
+  - distributeCardsButton: {instanceID: 0}
+  - selectUsersText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

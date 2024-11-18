@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MouseClickHandler : MonoBehaviour {
 
-	void Update ()
+    void Update ()
     {
         if (Input.GetMouseButtonDown(0))
         {
@@ -19,10 +19,9 @@ public class MouseClickHandler : MonoBehaviour {
 
                 if (hit.collider.GetComponent<Card>() != null)
                 {
-                    hit.collider.GetComponent<Card>().FlipCard_Face();
+                    hit.collider.GetComponent<Card>().FlipCardFace();  // Corrected method name here
                 }
             }
         }
-	}
-
+    }
 }

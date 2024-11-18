@@ -1,11 +1,10 @@
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class DiceRollerUI : MonoBehaviour
 {
     [SerializeField] Button _rollButton;
-    [SerializeField] TMP_Text _resultsText; // Removed doublesText as requested
+    [SerializeField] Text _resultsText; // Removed doublesText as requested
     [SerializeField] DiceRoller2D _diceRoller;
     
     // References to the dice prefabs
@@ -26,7 +25,7 @@ public class DiceRollerUI : MonoBehaviour
 
     void HandleRoll(int obj)
     {
-        _resultsText.text = $"Your team rolled {obj}!";
+        _resultsText.text = $"Your team             rolled {obj}!";
         BringDiceToFront(); // Call to ensure dice are at the front
     }
 
