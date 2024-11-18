@@ -32,13 +32,21 @@ public class GameManager_Cards : MonoBehaviour
 		randomButThat = FindObjectOfType<Random_ButThat> ();
 
         button_playersNumberSubmit.onClick.AddListener (OnSubmit);
-
         button_playersNumberSubmit.transform.parent.gameObject.SetActive (true);
+
+
         button_SpawnCards.gameObject.SetActive(false);
         randomButThat.ShuffleCards(); // Shuffle the cards before distributing
 
+        
+
+        button_Player1.onClick.AddListener(() => SetPlayerCount(1));
+        button_Player2.onClick.AddListener(() => SetPlayerCount(2));
+        button_Player3.onClick.AddListener(() => SetPlayerCount(3));
+        button_Player4.onClick.AddListener(() => SetPlayerCount(4));
 
 	}
+
 
     void Update()
     {
@@ -113,4 +121,49 @@ public class GameManager_Cards : MonoBehaviour
     {
         warningText.gameObject.SetActive(false);
     }
+
+    public Button button_Player1;
+    public Button button_Player2;
+    public Button button_Player3;
+    public Button button_Player4;
+    public GameObject headerText;
+
+
+    public void SetPlayerCount(int playerCount)
+{
+    if (playerCount <= 4 && playerCount >= 1)
+    {
+        int arraySize = playerCount * cardsPerPlayer;
+        randomButThat.CreateCardsArray(arraySize);
+
+        ShuffleDeck();
+
+        for (int i = 0; i < playerCount; i++)
+        {
+            playersParent.GetChild(i).gameObject.SetActive(true);
+        }
+
+        button_SpawnCards.gameObject.SetActive(true);
+        HidePlayerButtons();
+
+        // Hide the headerText
+        headerText.SetActive(false);
+    }
+    else
+    {
+        ShowWarning("Players must be between 1 to 4");
+    }
+    }
+
+    void HidePlayerButtons()
+    {
+        button_Player1.gameObject.SetActive(false);
+        button_Player2.gameObject.SetActive(false);
+        button_Player3.gameObject.SetActive(false);
+        button_Player4.gameObject.SetActive(false);
+    }
+
+
+
+
 }
